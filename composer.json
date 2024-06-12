@@ -1,11 +1,10 @@
 {
-  "name": "edofre/yii2-marker-clusterer",
+  "name": "tarekajaj/yii2-marker-clusterer",
   "description": "Yii2 assets and marker clusterer",
   "require": {
     "php": ">=5.5.0",
     "yiisoft/yii2": "*",
     "yiisoft/yii2-jui": "*",
-    "2amigos/yii2-google-maps-library": "*"
   },
   "keywords": [
     "clusterer",
